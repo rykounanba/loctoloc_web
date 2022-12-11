@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = aspnetcoreapp
 build_property.RootNamespace = aspnetcoreapp
-build_property.ProjectDir = /home/rykou/Development/loctoloc_web/aspnetcoreapp/
+build_property.ProjectDir = /home/rykou/Development/loctoloc_web/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/rykou/Development/loctoloc_web/aspnetcoreapp
+build_property.MSBuildProjectDirectory = /home/rykou/Development/loctoloc_web
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/rykou/Development/loctoloc_web/aspnetcoreapp/Pages/Error.cshtml]
+[/home/rykou/Development/loctoloc_web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/rykou/Development/loctoloc_web/aspnetcoreapp/Pages/Index.cshtml]
+[/home/rykou/Development/loctoloc_web/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/rykou/Development/loctoloc_web/aspnetcoreapp/Pages/Privacy.cshtml]
+[/home/rykou/Development/loctoloc_web/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/rykou/Development/loctoloc_web/aspnetcoreapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/home/rykou/Development/loctoloc_web/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/rykou/Development/loctoloc_web/aspnetcoreapp/Pages/_ViewImports.cshtml]
+[/home/rykou/Development/loctoloc_web/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/rykou/Development/loctoloc_web/aspnetcoreapp/Pages/_ViewStart.cshtml]
+[/home/rykou/Development/loctoloc_web/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/rykou/Development/loctoloc_web/aspnetcoreapp/Pages/Shared/_Layout.cshtml]
+[/home/rykou/Development/loctoloc_web/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ezjv2lc70y
