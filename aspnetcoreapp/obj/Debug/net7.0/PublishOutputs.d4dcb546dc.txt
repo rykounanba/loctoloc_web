@@ -1,0 +1,7 @@
+/home/rykou/Development/loctoloc_web/aspnetcoreapp/bin/Debug/net7.0/publish/aspnetcoreapp
+/home/rykou/Development/loctoloc_web/aspnetcoreapp/bin/Debug/net7.0/publish/appsettings.Development.json
+/home/rykou/Development/loctoloc_web/aspnetcoreapp/bin/Debug/net7.0/publish/appsettings.json
+/home/rykou/Development/loctoloc_web/aspnetcoreapp/bin/Debug/net7.0/publish/aspnetcoreapp.dll
+/home/rykou/Development/loctoloc_web/aspnetcoreapp/bin/Debug/net7.0/publish/aspnetcoreapp.deps.json
+/home/rykou/Development/loctoloc_web/aspnetcoreapp/bin/Debug/net7.0/publish/aspnetcoreapp.runtimeconfig.json
+/home/rykou/Development/loctoloc_web/aspnetcoreapp/bin/Debug/net7.0/publish/aspnetcoreapp.pdb
