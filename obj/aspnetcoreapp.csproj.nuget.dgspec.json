@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rykou/Development/loctoloc_web/aspnetcoreapp/aspnetcoreapp.csproj": {}
+    "/home/rykou/Development/loctoloc_web/aspnetcoreapp.csproj": {}
   },
   "projects": {
-    "/home/rykou/Development/loctoloc_web/aspnetcoreapp/aspnetcoreapp.csproj": {
+    "/home/rykou/Development/loctoloc_web/aspnetcoreapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rykou/Development/loctoloc_web/aspnetcoreapp/aspnetcoreapp.csproj",
+        "projectUniqueName": "/home/rykou/Development/loctoloc_web/aspnetcoreapp.csproj",
         "projectName": "aspnetcoreapp",
-        "projectPath": "/home/rykou/Development/loctoloc_web/aspnetcoreapp/aspnetcoreapp.csproj",
+        "projectPath": "/home/rykou/Development/loctoloc_web/aspnetcoreapp.csproj",
         "packagesPath": "/home/rykou/.nuget/packages/",
-        "outputPath": "/home/rykou/Development/loctoloc_web/aspnetcoreapp/obj/",
+        "outputPath": "/home/rykou/Development/loctoloc_web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rykou/.nuget/NuGet/NuGet.Config"

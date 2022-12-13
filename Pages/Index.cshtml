@@ -14,13 +14,43 @@
     <div id="bing-map">
         <div id="myMap" style='position:relative;width:600px;height:400px;'></div>
         <div id="testwindow">"not started yet"</div>
+        <input type="button" value="Go Somewhere Else" onclick="doclick()" />
+        <div id="end_result">test<div>
     </div>
 </div>
 
 <script type="text/javascript">
    function GetMap()
    {
-    var map = new Microsoft.Maps.Map('#myMap');
-    Microsoft.Maps.Events.addHandler(map, 'click', function() {document.getElementById('testwindow').innerHTML="clicked window"; create_pushpin(map);});
+    window.map = new Microsoft.Maps.Map('#myMap');
+    Microsoft.Maps.Events.addHandler(window.map, 'click', function() {document.getElementById('testwindow').innerHTML="clicked window"; create_pushpin(window.map);});
    }
+
+   function doclick(){
+    var statusbar = document.getElementById("end_result");
+    if(window.map.entities.getLength() == 2){
+            var origin_lat;
+            var origin_lon;
+            var dest_lat;
+            var dest_lon;
+            var uri = "https://loctoloc.azurewebsites.net/api/HttpTrigger1?code=_qYaaEq7vpS5h7epRUYfWSdjiRx5ghkjR60tYnN1ApJGAzFu4yQibQ==&origin_lat=50.123&origin_lon=54.123&dest_lat=53.321&dest_lon=43.234";
+            httpGetAsync(uri, function(result){
+                console.log(result);
+            });
+    } else {
+        statusbar.innerHTML = "not all requirements for distance calculation have been met";
+    }
+   }
+   
+
+   function httpGetAsync(theUrl, callback) {
+        let xmlHttpReq = new XMLHttpRequest();
+        xmlHttpReq.onreadystatechange = function () {
+            if (xmlHttpReq.readyState == 4 && xmlHttpReq.status == 200)
+            callback(xmlHttpReq.responseText);
+        }
+        xmlHttpReq.open("GET", theUrl, true); // true for asynchronous 
+        xmlHttpReq.send(null);
+    }
+
 </script>

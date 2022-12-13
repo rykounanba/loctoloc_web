@@ -14,3 +14,7 @@ function create_pushpin(_map){
         console.log("testing");
     }
 }
+
+function calc_diff(){
+    console.log(test);
+}

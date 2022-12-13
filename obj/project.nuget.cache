@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2WdYX1ECB4uAVWXK2cvkEzlLMsBuZVm99Q6vrfhE1c3wXnpt/pGYab8l70BJm1xtc0Td27N1lNGoLAnNT3OjhA==",
+  "dgSpecHash": "xxtu1U0RgWTqAWZk4nnqcb9OhoiReoklgWVJFJ6WocSXoAzguifcH4XLgQhRJrJY7uTMXGrPu1MqM5XUG5gonQ==",
   "success": true,
-  "projectFilePath": "/home/rykou/Development/loctoloc_web/aspnetcoreapp/aspnetcoreapp.csproj",
+  "projectFilePath": "/home/rykou/Development/loctoloc_web/aspnetcoreapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
